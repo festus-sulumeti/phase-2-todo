@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "name": "Try again",
+      "id": 1
+    },
+    {
+      "name": "New todo",
+      "id": 2
+    },
+    {
+      "name": "",
+      "id": 3
+    },
+    {
+      "name": "work",
+      "id": 4
+    },
+    {
+      "name": "buying cake",
+      "id": 5
+    },
+    {
+      "name": "going to the mall",
+      "id": 6
+    }
+  ]
+}
